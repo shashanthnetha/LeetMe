@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
