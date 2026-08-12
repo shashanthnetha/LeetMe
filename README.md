@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/shashanthnetha/LeetMe/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shashanthnetha/LeetMe/tree/master/0183-customers-who-never-order) |
 | [0610-triangle-judgement](https://github.com/shashanthnetha/LeetMe/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/shashanthnetha/LeetMe/tree/master/0620-not-boring-movies) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shashanthnetha/LeetMe/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
