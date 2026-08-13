@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashanthnetha/LeetMe/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/shashanthnetha/LeetMe/tree/master/3945-digit-frequency-score) |
