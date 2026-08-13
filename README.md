@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shashanthnetha/LeetMe/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shashanthnetha/LeetMe/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shashanthnetha/LeetMe/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shashanthnetha/LeetMe/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashanthnetha/LeetMe/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
