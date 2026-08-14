@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/shashanthnetha/LeetMe/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/shashanthnetha/LeetMe/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/shashanthnetha/LeetMe/tree/master/0620-not-boring-movies) |
+| [1693-daily-leads-and-partners](https://github.com/shashanthnetha/LeetMe/tree/master/1693-daily-leads-and-partners) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shashanthnetha/LeetMe/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
