@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shashanthnetha/LeetMe/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shashanthnetha/LeetMe/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shashanthnetha/LeetMe/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shashanthnetha/LeetMe/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashanthnetha/LeetMe/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shashanthnetha/LeetMe/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shashanthnetha/LeetMe/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
