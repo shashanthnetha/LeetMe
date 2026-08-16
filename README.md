@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashanthnetha/LeetMe/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/shashanthnetha/LeetMe/tree/master/0171-excel-sheet-column-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashanthnetha/LeetMe/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/shashanthnetha/LeetMe/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,4 +192,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
