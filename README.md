@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shashanthnetha/LeetMe/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [3701-compute-alternating-sum](https://github.com/shashanthnetha/LeetMe/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/shashanthnetha/LeetMe/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashanthnetha/LeetMe/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
