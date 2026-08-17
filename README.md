@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/shashanthnetha/LeetMe/tree/master/0171-excel-sheet-column-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashanthnetha/LeetMe/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/shashanthnetha/LeetMe/tree/master/3945-digit-frequency-score) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashanthnetha/LeetMe/tree/master/0005-longest-palindromic-substring) |
+| [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 ## Manacher
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
