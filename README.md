@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shashanthnetha/LeetMe/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
+| [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashanthnetha/LeetMe/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
