@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/shashanthnetha/LeetMe/tree/master/2235-add-two-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shashanthnetha/LeetMe/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashanthnetha/LeetMe/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashanthnetha/LeetMe/tree/master/3658-gcd-of-odd-and-even-sums) |
