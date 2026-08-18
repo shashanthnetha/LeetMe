@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shashanthnetha/LeetMe/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shashanthnetha/LeetMe/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3701-compute-alternating-sum](https://github.com/shashanthnetha/LeetMe/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/shashanthnetha/LeetMe/tree/master/3925-concatenate-array-with-reverse) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shashanthnetha/LeetMe/tree/master/0206-reverse-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shashanthnetha/LeetMe/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Quicksort
 |  |
 | ------- |
