@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
+| [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shashanthnetha/LeetMe/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/shashanthnetha/LeetMe/tree/master/0771-jewels-and-stones) |
+| [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashanthnetha/LeetMe/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
