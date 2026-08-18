@@ -1,11 +1,14 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        a = defaultdict(int)
-        b = defaultdict(int)
-        vowels="aeiou"
+        vowel={'a','e','i','o','u'}
+        v=0
+        const=0
+        freq=defaultdict(int)
         for i in s:
-            if i in vowels:
-                a[i]+=1
+            freq[i]+=1
+        for char,count in freq.items():
+            if char in vowel:
+                v=max(v,count)
             else:
-                b[i]+=1
-        return max(a.values(),default=0)+max(b.values(),default=0)
+                const=max(const,count)
+        return v+const
