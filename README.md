@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/shashanthnetha/LeetMe/tree/master/0171-excel-sheet-column-number) |
+| [0728-self-dividing-numbers](https://github.com/shashanthnetha/LeetMe/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
