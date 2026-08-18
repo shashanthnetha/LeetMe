@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashanthnetha/LeetMe/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3280-convert-date-to-binary](https://github.com/shashanthnetha/LeetMe/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/shashanthnetha/LeetMe/tree/master/2235-add-two-integers) |
+| [3280-convert-date-to-binary](https://github.com/shashanthnetha/LeetMe/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shashanthnetha/LeetMe/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashanthnetha/LeetMe/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashanthnetha/LeetMe/tree/master/3658-gcd-of-odd-and-even-sums) |
