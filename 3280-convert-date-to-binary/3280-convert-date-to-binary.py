@@ -1,5 +1,7 @@
 class Solution:
     def convertDateToBinary(self, date: str) -> str:
-        a=list(map(int,date.split("-")))
-        x=str(bin(a[0])[2:])+"-"+str(bin(a[1])[2:])+"-"+str(bin(a[2])[2:])
-        return x
+        parts=date.split("-")
+        year=bin(int(parts[0]))[2:]
+        month=bin(int(parts[1]))[2:]
+        day=bin(int(parts[2]))[2:]
+        return year+"-"+month+"-"+day
