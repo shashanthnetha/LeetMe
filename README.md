@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shashanthnetha/LeetMe/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shashanthnetha/LeetMe/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shashanthnetha/LeetMe/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shashanthnetha/LeetMe/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3701-compute-alternating-sum](https://github.com/shashanthnetha/LeetMe/tree/master/3701-compute-alternating-sum) |
