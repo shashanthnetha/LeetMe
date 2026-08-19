@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shashanthnetha/LeetMe/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shashanthnetha/LeetMe/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shashanthnetha/LeetMe/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shashanthnetha/LeetMe/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shashanthnetha/LeetMe/tree/master/0128-longest-consecutive-sequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shashanthnetha/LeetMe/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shashanthnetha/LeetMe/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shashanthnetha/LeetMe/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashanthnetha/LeetMe/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
