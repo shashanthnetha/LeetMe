@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/shashanthnetha/LeetMe/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashanthnetha/LeetMe/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
