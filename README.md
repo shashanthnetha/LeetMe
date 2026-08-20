@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shashanthnetha/LeetMe/tree/master/1389-create-target-array-in-the-given-order) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shashanthnetha/LeetMe/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/shashanthnetha/LeetMe/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/shashanthnetha/LeetMe/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shashanthnetha/LeetMe/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shashanthnetha/LeetMe/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shashanthnetha/LeetMe/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shashanthnetha/LeetMe/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashanthnetha/LeetMe/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
