@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/shashanthnetha/LeetMe/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashanthnetha/LeetMe/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2129-capitalize-the-title](https://github.com/shashanthnetha/LeetMe/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shashanthnetha/LeetMe/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3280-convert-date-to-binary](https://github.com/shashanthnetha/LeetMe/tree/master/3280-convert-date-to-binary) |
