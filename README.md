@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashanthnetha/LeetMe/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shashanthnetha/LeetMe/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shashanthnetha/LeetMe/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/shashanthnetha/LeetMe/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/shashanthnetha/LeetMe/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shashanthnetha/LeetMe/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
