@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/shashanthnetha/LeetMe/tree/master/0463-island-perimeter) |
+| [0643-maximum-average-subarray-i](https://github.com/shashanthnetha/LeetMe/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shashanthnetha/LeetMe/tree/master/0867-transpose-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashanthnetha/LeetMe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashanthnetha/LeetMe/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/shashanthnetha/LeetMe/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/shashanthnetha/LeetMe/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shashanthnetha/LeetMe/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
