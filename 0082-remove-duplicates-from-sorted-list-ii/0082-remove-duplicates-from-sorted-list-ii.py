@@ -10,6 +10,7 @@ class Solution:
             values.append(head.val)
             head = head.next
         result = []
+        
 
         for x in values:
             if values.count(x) == 1:
