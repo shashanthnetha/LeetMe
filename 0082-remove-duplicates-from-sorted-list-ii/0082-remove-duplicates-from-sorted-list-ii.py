@@ -6,22 +6,17 @@
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         values=[]
-        while head:
-            values.append(head.val)
-            head = head.next
-        result = []
-        
-
-        for x in values:
-            if values.count(x) == 1:
-                result.append(x)
-
-        dummy = ListNode(0)
-        current = dummy
-
-        for x in result:
-            current.next = ListNode(x)
-            current = current.next
-
-        return dummy.next
-        
+        current=head
+        while current:
+            values.append(current.val)
+            current=current.next
+        result=[]
+        for i in values:
+            if values.count(i)==1:
+                result.append(i)
+        d=ListNode()
+        current=d
+        for i in result:
+            current.next=ListNode(i)
+            current=current.next
+        return d.next
