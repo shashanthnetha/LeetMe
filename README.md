@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shashanthnetha/LeetMe/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashanthnetha/LeetMe/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashanthnetha/LeetMe/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shashanthnetha/LeetMe/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shashanthnetha/LeetMe/tree/master/1572-matrix-diagonal-sum) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shashanthnetha/LeetMe/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/shashanthnetha/LeetMe/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shashanthnetha/LeetMe/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashanthnetha/LeetMe/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shashanthnetha/LeetMe/tree/master/2181-merge-nodes-in-between-zeros) |
