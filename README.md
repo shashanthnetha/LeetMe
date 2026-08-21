@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shashanthnetha/LeetMe/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
+| [1572-matrix-diagonal-sum](https://github.com/shashanthnetha/LeetMe/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/shashanthnetha/LeetMe/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/shashanthnetha/LeetMe/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shashanthnetha/LeetMe/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shashanthnetha/LeetMe/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
+| [1572-matrix-diagonal-sum](https://github.com/shashanthnetha/LeetMe/tree/master/1572-matrix-diagonal-sum) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/shashanthnetha/LeetMe/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
