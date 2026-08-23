@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shashanthnetha/LeetMe/tree/master/0917-reverse-only-letters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shashanthnetha/LeetMe/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/shashanthnetha/LeetMe/tree/master/1816-truncate-sentence) |
+| [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/shashanthnetha/LeetMe/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashanthnetha/LeetMe/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/shashanthnetha/LeetMe/tree/master/2129-capitalize-the-title) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashanthnetha/LeetMe/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shashanthnetha/LeetMe/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/shashanthnetha/LeetMe/tree/master/2235-add-two-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashanthnetha/LeetMe/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/shashanthnetha/LeetMe/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
