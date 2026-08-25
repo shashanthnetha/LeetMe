@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shashanthnetha/LeetMe/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/shashanthnetha/LeetMe/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shashanthnetha/LeetMe/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shashanthnetha/LeetMe/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shashanthnetha/LeetMe/tree/master/1684-count-the-number-of-consistent-strings) |
