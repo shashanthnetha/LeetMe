@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/shashanthnetha/LeetMe/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/shashanthnetha/LeetMe/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/shashanthnetha/LeetMe/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/shashanthnetha/LeetMe/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/shashanthnetha/LeetMe/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shashanthnetha/LeetMe/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashanthnetha/LeetMe/tree/master/1004-max-consecutive-ones-iii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shashanthnetha/LeetMe/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/shashanthnetha/LeetMe/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/shashanthnetha/LeetMe/tree/master/2000-reverse-prefix-of-word) |
 ## Counting Sort
 |  |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shashanthnetha/LeetMe/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
