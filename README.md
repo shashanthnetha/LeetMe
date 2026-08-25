@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/shashanthnetha/LeetMe/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shashanthnetha/LeetMe/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashanthnetha/LeetMe/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shashanthnetha/LeetMe/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shashanthnetha/LeetMe/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shashanthnetha/LeetMe/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/shashanthnetha/LeetMe/tree/master/3467-transform-array-by-parity) |
+| [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shashanthnetha/LeetMe/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 ## Minimax
 |  |
 | ------- |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashanthnetha/LeetMe/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
