@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/shashanthnetha/LeetMe/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/shashanthnetha/LeetMe/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shashanthnetha/LeetMe/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shashanthnetha/LeetMe/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3945-digit-frequency-score](https://github.com/shashanthnetha/LeetMe/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [3467-transform-array-by-parity](https://github.com/shashanthnetha/LeetMe/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shashanthnetha/LeetMe/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 ## Minimax
 |  |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 ## Monotonic Stack
 |  |
