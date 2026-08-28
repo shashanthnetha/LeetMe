@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shashanthnetha/LeetMe/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/shashanthnetha/LeetMe/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/shashanthnetha/LeetMe/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shashanthnetha/LeetMe/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/shashanthnetha/LeetMe/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
 ## Monotonic Stack
 |  |
