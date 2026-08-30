@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/shashanthnetha/LeetMe/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/shashanthnetha/LeetMe/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashanthnetha/LeetMe/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3280-convert-date-to-binary](https://github.com/shashanthnetha/LeetMe/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shashanthnetha/LeetMe/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/shashanthnetha/LeetMe/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shashanthnetha/LeetMe/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shashanthnetha/LeetMe/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
