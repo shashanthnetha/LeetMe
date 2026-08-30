@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashanthnetha/LeetMe/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashanthnetha/LeetMe/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shashanthnetha/LeetMe/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shashanthnetha/LeetMe/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shashanthnetha/LeetMe/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/shashanthnetha/LeetMe/tree/master/2574-left-and-right-sum-differences) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shashanthnetha/LeetMe/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shashanthnetha/LeetMe/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shashanthnetha/LeetMe/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shashanthnetha/LeetMe/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/shashanthnetha/LeetMe/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashanthnetha/LeetMe/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/shashanthnetha/LeetMe/tree/master/3745-maximize-expression-of-three-elements) |
